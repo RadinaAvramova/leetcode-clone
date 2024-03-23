@@ -1,2 +1,3 @@
-# leetcode-clone
-leetcode-clone
+# LeetCode Clone
+
+### Built With React, NextJS, TypeScript, TailwindCSS, Firebase
